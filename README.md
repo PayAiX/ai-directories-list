@@ -48,6 +48,7 @@ Target: E-commerce, Retailers, Marketplaces
 | **AlternativeTo** | [alternativeto.net/add-application](https://alternativeto.net/add-application/) | Directory | 3min |
 | **SaaSHub** | [saashub.com/submit](https://www.saashub.com/submit) | Directory | 3min |
 | **GetApp** | [getapp.com/submit](https://www.getapp.com/submit) | Review | 5min |
+| [Nick Launches](https://nicklaunches.com/) | https://nicklaunches.com/ |  |  |
 
 ## Tier 2 - AI Specific Directories
 
