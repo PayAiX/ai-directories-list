@@ -83,7 +83,7 @@ Target: E-commerce, Retailers, Marketplaces
 | **Beta Page** | [betapage.co/submit](https://betapage.co/submit) | Free |
 | **Startup Buffer** | [startupbuffer.com/submit](https://startupbuffer.com/submit) | Free |
 | **Startup Ranking** | [startupranking.com/add](https://www.startupranking.com/add) | Free |
-| **SaaSCity** | [saascity.io/submit](https://saascity.io/submit) | Free, DR 59, dofollow |
+| **SaaSCity** | [saascity.io/submit](https://saascity.io/submit) | Free, DR 64, dofollow |
 | **KillerStartups** | [killerstartups.com/submit](https://killerstartups.com/submit-startup/) | Paid options |
 
 ## Tier 5 - General Software
