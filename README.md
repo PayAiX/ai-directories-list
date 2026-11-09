@@ -64,6 +64,7 @@ Target: E-commerce, Retailers, Marketplaces
 | **AI Depot** | [aidepot.co/submit](https://aidepot.co/submit) | Free |
 | **Ben's Bites** | [bensbites.co/submit](https://bensbites.co/submit) | Newsletter |
 | **AI Tools Directory** | [aitoolsdirectory.com/submit](https://aitoolsdirectory.com/submit) | Free |
+| **MeetNewAI** | [meetnewai.com/submit](https://meetnewai.com/submit) | Free |
 
 ## Tier 3 - Chatbot Specific
 
